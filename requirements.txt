@@ -1,0 +1,18 @@
+pandas==2.2
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+dash_core_components
+dash_table
+dash_html_components
+-e .
